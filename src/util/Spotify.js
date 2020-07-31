@@ -1,5 +1,5 @@
 const clientID = '2aa278028c1d47eb880d622be62932bd';
-const redirectUri = 'https://wejamming.herokuapp.com/';
+const redirectUri = 'http://jammming-out.surge.sh';
 
 
 
