@@ -1,5 +1,5 @@
 const clientID = '2aa278028c1d47eb880d622be62932bd';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'https://wejamming.herokuapp.com/';
 
 
 
