@@ -5,6 +5,6 @@ A [Codecademy Pro Intensive](https://pro.codecademy.com/) project.
 
 ### View the app
 
-* On [surge](jammming-out.surge.sh)
+* On [surge](http://jammming-out.surge.sh)
 
 
